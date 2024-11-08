@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-image{
+    background-image: url("../../public/assets/ryan-shumway--n5F3fH0lIY-unsplash.jpg");
+}
